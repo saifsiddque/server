@@ -23,16 +23,16 @@ app.get("/product/:id", (req, res) =>{
     res.send(singleProduct)
 
 })
-app.get("/category/:name", (req, res) =>{
-    const name = req.params.name;
-    console.log(name);
-    const singleCategory = productsCollection?.filter(p=>p.category == name);
-    if(!singleCategory){
-        res.send('Out Of Stock')
-    }
-    res.send(singleCategory)
+// app.get("/category/:name", (req, res) =>{
+//     const name = req.params.name;
+//     console.log(name);
+//     const singleCategory = productsCollection?.filter(p=>p.category == name);
+//     if(!singleCategory){
+//         res.send('Out Of Stock')
+//     }
+//     res.send(singleCategory)
 
-})
+// })
 
 
 

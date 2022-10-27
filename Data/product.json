@@ -4,6 +4,7 @@
         "name":"React",
         "logo":"https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
         "total":10,
+        "price":4500,
         "detail":"In this React course we can explore many things like React Hooks, Props, JSX, ect. React is to much useful for web development it makes our life easy . for this we call react SPA (Single Page Application) . Then don't wait go and InRole now!   " ,
         "about":"If you want to learn about Technology then it is too useful platform for you . We have long experience on teaching. as the result our more than 500 students are happy from us . Many students got hired on their SKILLS . We will teach you in the easy way but you also need some hard work. then best of luck , ALLAH HAFIZ "
     },
@@ -12,6 +13,7 @@
         "name":"JavaScript",
         "logo":"https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
         "total":9,
+        "price":4000,
         "detail":"In this JavaScript course we can explore many things like Event, DOM, BOM, ect. JavaScript is to much useful for web development it makes our life easy . for this we call JavaScript JS  . Then don't wait go and InRole now!   ",
         "about":"If you want to learn about Technology then it is too useful platform for you . We have long experience on teaching. as the result our more than 500 students are happy from us . Many students got hired on their SKILLS . We will teach you in the easy way but you also need some hard work. then best of luck , ALLAH HAFIZ "
 
@@ -21,6 +23,7 @@
         "name":"CSS",
         "logo":"https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
         "total":8,
+        "price":5000,
         "detail":"In this CSS course we can explore many things like Styling, Layout,  ect. CSS is to much useful for web development it makes our life easy . for this we call CSS (Cascading Style Sheets) . Then don't wait go and InRole now!   ",
         "about":"If you want to learn about Technology then it is too useful platform for you . We have long experience on teaching. as the result our more than 500 students are happy from us . Many students got hired on their SKILLS . We will teach you in the easy way but you also need some hard work. then best of luck , ALLAH HAFIZ "
 
@@ -30,17 +33,19 @@
         "name":"Git",
         "logo":"https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
         "total":11,
+        "price":3000,
         "detail":"In this Git course we can explore many things like  GIthub, Git bash, Git Repo, ect. GitHub is to much useful for web development it makes our life easy . for this we call Github major tool  . Then don't wait go and InRole now!   ",
         "about":"If you want to learn about Technology then it is too useful platform for you . We have long experience on teaching. as the result our more than 500 students are happy from us . Many students got hired on their SKILLS . We will teach you in the easy way but you also need some hard work. then best of luck , ALLAH HAFIZ "
 
     },
     {
         "id":5,
-        "name":"SEO",
+        "name":"SEO ",
         "logo":"https://img.freepik.com/free-vector/seo-concept-illustration_24908-61531.jpg?w=740&t=st=1666680413~exp=1666681013~hmac=37a99b136aa150675115a6f7e4cd8e4867e81f4891fc3f385e0dba0a07c1133b",
         "total":8,
+        "price":6000,
         "detail":"In this SEO course we can explore many things like Google Analytics, Marketing, KeyWords, ect. SEO is to much useful for web development it makes our life easy . for this we call react SEO (Search Engine Optimisation ) . Then don't wait go and InRole now!   ",
-        "about":"If you want to learn about Technology then it is too useful platform for you . We have long experience on teaching. as the result our more than 500 students are happy from us . Many students got hired on their SKILLS . We will teach you in the easy way but you also need some hard work. then best of luck , ALLAH HAFIZ "
+        "about":"If you  want to learn about Technology then it is too useful platform for you . We have long experience on teaching. as the result our more than 500 students are happy from us . Many students got hired on their SKILLS . We will teach you in the easy way but you also need some hard work. then best of luck , ALLAH HAFIZ "
 
     },
     {
@@ -48,6 +53,7 @@
         "name":"Html",
         "logo":"https://img.freepik.com/free-icon/html_318-155621.jpg?size=338&ext=jpg&ga=GA1.2.1488004789.1659069416&semt=sph",
         "total":11,
+        "price":3500,
         "detail":"In this HTML course we can explore many things like structure of a website , Some Tags, CSS, ect. HTML is major thing  for web development it makes our development complete . for this we call HTML (Hypertext Markup Language) . Then don't wait go and InRole now!   ",
         "about":"If you want to learn about Technology then it is too useful platform for you . We have long experience on teaching. as the result our more than 500 students are happy from us . Many students got hired on their SKILLS . We will teach you in the easy way but you also need some hard work. then best of luck , ALLAH HAFIZ "
 

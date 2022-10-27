@@ -18,7 +18,7 @@ app.get("/product/:id", (req, res) =>{
     const id = req.params.id;
     const singleProduct = productsCollection?.find(p=>p.id == id);
     if(!singleProduct){
-        res.send('Out Of Stock')
+        res.send('Out Of Stock') 
     }
     res.send(singleProduct)
 
